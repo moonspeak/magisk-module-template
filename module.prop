@@ -1,9 +1,9 @@
-id=template
-name=Template Module
+id=SamsungEmojiReplacer
+name=Samsung Emoji Replacer
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
+author=moonspeak
+description=Replace those awful Samsung emojis with iOS 9 Flat Emojis.
+support=https://github.com/moonspeak/samsung-emoji-replacer
 donate=http://topjohnwu.github.io/donate
 cacheModule=false
